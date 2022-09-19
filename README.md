@@ -7,4 +7,5 @@ The technology courses I've taken are:
 * Code.org
 * code.HS
 * Learn to code (java)
-* Comp. Sci 20
+* Comp. Sci 10
+* and some other websites going over python ad java
